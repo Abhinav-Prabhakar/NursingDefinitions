@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-25",
+  "collection": {
+    "id": "nursing-and-nclex",
+    "name": "Nursing and NCLEX",
+    "tagline": "Nursing and NCLEX, in one line.",
+    "topic": "Nursing and NCLEX-RN preparation",
+    "audience": "NCLEX-RN candidates",
+    "level": "intro",
+    "jurisdiction": "US",
+    "disclaimer": "Educational vocabulary only; not medical advice, clinical training, or licensure guidance."
+  },
+  "coverage": {
+    "sections": 2,
+    "subjects": 6,
+    "definitions": 347,
+    "sources": 9
+  },
+  "semesters": [
+    {
+      "id": "core",
+      "label": "Core",
+      "status": "complete",
+      "subjects": [
+        {
+          "id": "fundamentals",
+          "name": "Fundamentals of Nursing",
+          "shortName": "Fundamentals",
+          "code": "",
+          "courseType": "core",
+          "data": "data/subjects/fundamentals.json",
+          "definitionCount": 60,
+          "unitCount": 6,
+          "coveredUnits": 6,
+          "status": "complete"
+        },
+        {
+          "id": "health-assessment",
+          "name": "Health Assessment",
+          "shortName": "Health assessment",
+          "code": "",
+          "courseType": "core",
+          "data": "data/subjects/health-assessment.json",
+          "definitionCount": 56,
+          "unitCount": 6,
+          "coveredUnits": 6,
+          "status": "complete"
+        },
+        {
+          "id": "safety-and-infection-control",
+          "name": "Safety and Infection Control",
+          "shortName": "Safety and infection",
+          "code": "",
+          "courseType": "core",
+          "data": "data/subjects/safety-and-infection-control.json",
+          "definitionCount": 56,
+          "unitCount": 6,
+          "coveredUnits": 6,
+          "status": "complete"
+        }
+      ]
+    },
+    {
+      "id": "clinical",
+      "label": "Clinical",
+      "status": "complete",
+      "subjects": [
+        {
+          "id": "medical-surgical",
+          "name": "Medical-Surgical Nursing",
+          "shortName": "Med-surg",
+          "code": "",
+          "courseType": "core",
+          "data": "data/subjects/medical-surgical.json",
+          "definitionCount": 60,
+          "unitCount": 6,
+          "coveredUnits": 6,
+          "status": "complete"
+        },
+        {
+          "id": "maternal-and-child",
+          "name": "Maternal and Child Health",
+          "shortName": "Maternal and child",
+          "code": "",
+          "courseType": "core",
+          "data": "data/subjects/maternal-and-child.json",
+          "definitionCount": 59,
+          "unitCount": 6,
+          "coveredUnits": 6,
+          "status": "complete"
+        },
+        {
+          "id": "mental-health",
+          "name": "Mental Health Nursing",
+          "shortName": "Mental health",
+          "code": "",
+          "courseType": "core",
+          "data": "data/subjects/mental-health.json",
+          "definitionCount": 56,
+          "unitCount": 6,
+          "coveredUnits": 6,
+          "status": "complete"
+        }
+      ]
+    }
+  ]
+}

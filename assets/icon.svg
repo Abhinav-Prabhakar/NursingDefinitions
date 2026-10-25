@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="one·liners nursing">
+  <rect width="512" height="512" rx="112" fill="#1a1626"/>
+  <rect x="30" y="30" width="452" height="452" rx="90" fill="none" stroke="#f3eff6" stroke-opacity=".07"/>
+  <path d="M196 100 H284 V180 H364 V268 H284 V348 H196 V268 H116 V180 H196 Z" fill="none" stroke="#f3eff6"
+        stroke-width="16" stroke-linejoin="round"/>
+  <path d="M116 412 H300 L320 380 L340 432 L360 412 H412" fill="none" stroke="#f38fab" stroke-width="16"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
